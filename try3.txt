@@ -1,0 +1,3 @@
+echo "Nama saya firdaus"
+echo "umur saya 17"
+echo 'asal saya dari kuningan"
